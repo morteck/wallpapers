@@ -1,7 +1,8 @@
 ## Picky-Wallpapers by Morteck! ##
 
 After spending countless hours building my wallpaper collection only to lose them due to an rsync failure,
-it was time to set up an official repository. 
+it was time to set up an official repository. These wallpapers were sourced from various sites 
+such as Imagur, Pintreast, etc.
 
 I will be updating the contents of this repository periodically, and will review all push requests. 
 
