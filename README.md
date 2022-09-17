@@ -13,8 +13,7 @@ is not visually distracting is important for productivity.
 Please feel free to install and contribute! Please add only .png and .jpeg formats. 
 See below for instructions on adding this repository to your machine. 
 
-cd into the directory you use to house your cloned repo's and execute the following command:
-
+cd into your working directory and execute the command below:
 $ git clone https://github.com/morteck/Picky-Icons.git
 
 Feel free to send me a mssg if you encounter any bugs or issues. 
