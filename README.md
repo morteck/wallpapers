@@ -1,4 +1,4 @@
-## Picky-Wallpapers by Morteck! ##
+## My Wallpaper Collection ##
 
 After spending countless hours building my wallpaper collection only to lose them due to an rsync failure,
 it was time to set up an official repository. These wallpapers were sourced from various sites 
