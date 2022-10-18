@@ -1,19 +1,16 @@
-## My Wallpaper Collection ##
+## Wallpaper Repo ##
 
 After spending countless hours building my wallpaper collection only to lose them due to an rsync failure,
 it was time to set up an official repository. These wallpapers were sourced from various sites 
-such as imgur, pintreast, etc.
+such as imgur, pinterest, and various other sites.
 
-I will be updating the contents of this repository periodically, and will review all push requests. 
+The contents of this repository will be updated periodically.
 
-I'm overly selective with wallpapers, and figured if I am, surely there are others who are as well. 
-I change my desktop wallpaper quite frequently, and having an asthetically pleasing work enviorment that
-is not visually distracting is important for productivity. 
+I'm overly selective with my wallpapers, and I do my best to select those that are distraction free and asthetically pleasing for my work enviorment.
 
-Please feel free to install and contribute! Please add only .png and .jpeg formats. 
-See below for instructions on adding this repository to your machine. 
+Feel free to clone & contribute! 
 
-cd into your working directory and execute the command below:
-$ git clone https://github.com/morteck/Picky-Icons.git
+Download instructions: 
+cd into your working directory before executing the below command.
 
-Feel free to send me a mssg if you encounter any bugs or issues. 
+$ git clone https://github.com/morteck/wallpapers.git
